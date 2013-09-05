@@ -1,4 +1,4 @@
-sync-adgroups2ldap
+syncgroups-ad2ldap
 ==================
 
-Sync Active Directory Groups into LDAP Groups
+Sync Active Directory Groups into LDAP Groups. 
